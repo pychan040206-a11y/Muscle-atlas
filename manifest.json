@@ -1,0 +1,14 @@
+{
+  "name": "MUSCLE ATLAS",
+  "short_name": "MuscleAtlas",
+  "description": "근육 기시·정지 해부학 사전",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0f766e",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
